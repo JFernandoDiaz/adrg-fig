@@ -9,7 +9,7 @@ library(DiagrammeRsvg)
 library(magick)
 library(glue)
 library(dplyr)
-library(rsvg)-
+library(rsvg)
 library(shinydashboard)
 
 ui <- dashboardPage (
